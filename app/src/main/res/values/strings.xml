@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SnappSample</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="pickup_location">مبدا</string>
+    <string name="where_to">مقصد</string>
+    <string name="current_location">Current Location</string>
+    <string name="api_key">service.DiScDu8gelClrjE1xDMrgFvXMpfaiVtA4COaTnpe</string>
+</resources>
